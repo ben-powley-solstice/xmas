@@ -4,8 +4,6 @@
     -moz-animation: snow 20s linear infinite;
     -ms-animation: snow 20s linear infinite;
     animation: snow 20s linear infinite;
-    margin: 0;
-    padding: 52px;
 }
 
 @-webkit-keyframes snow {
